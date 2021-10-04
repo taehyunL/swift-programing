@@ -35,6 +35,7 @@
 		EA65657C270B12DD00BD18CC /* 10-10.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10-10.swift"; sourceTree = "<group>"; };
 		EA65657E270B146C00BD18CC /* 11-11,12.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "11-11,12.swift"; sourceTree = "<group>"; };
 		EA656580270B1EF100BD18CC /* 11-13,14.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "11-13,14.swift"; sourceTree = "<group>"; };
+		EA656582270B21E100BD18CC /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +79,7 @@
 				EA65657C270B12DD00BD18CC /* 10-10.swift */,
 				EA65657E270B146C00BD18CC /* 11-11,12.swift */,
 				EA656580270B1EF100BD18CC /* 11-13,14.swift */,
+				EA656582270B21E100BD18CC /* README.md */,
 			);
 			path = ch11;
 			sourceTree = "<group>";
